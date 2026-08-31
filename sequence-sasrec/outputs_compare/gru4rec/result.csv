@@ -1,0 +1,2 @@
+model,epoch,train_loss,recall@20,ndcg@20
+gru4rec,7,0.5682650485038757,0.043,0.012329447815544103

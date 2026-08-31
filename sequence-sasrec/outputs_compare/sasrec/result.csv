@@ -1,0 +1,2 @@
+model,epoch,train_loss,recall@20,ndcg@20
+sasrec,1,0.701636456489563,0.016,0.0045063716749638725

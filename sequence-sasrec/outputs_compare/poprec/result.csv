@@ -1,0 +1,2 @@
+model,epoch,train_loss,recall@20,ndcg@20
+poprec,0,,0.057,0.02140679973232828
